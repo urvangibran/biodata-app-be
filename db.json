@@ -1,0 +1,32 @@
+{
+  "biodataMahasiswa": [
+    {
+      "id": 1,
+      "name": "Urvan Gibran",
+      "prodi": "Teknik Informatika",
+      "nim": 5025221172,
+      "semester": "3"
+    },
+    {
+      "id": 3,
+      "name": "GIbran",
+      "prodi": "Informatika",
+      "nim": "225233152",
+      "semester": "7"
+    },
+    {
+      "name": "Abra",
+      "prodi": "Manajemen",
+      "nim": "8890221168",
+      "semester": "8",
+      "id": 4
+    },
+    {
+      "name": "Muhammad",
+      "prodi": "Hukum",
+      "nim": "88933222102",
+      "semester": "9",
+      "id": 5
+    }
+  ]
+}
